@@ -54,9 +54,6 @@ BAR_HEIGHT = 200  # pixels
 QUIET_ZONE = 10  # blank modules on each side
 ```
 
-The data is intentionally hardcoded, so the program does not need command-line
-arguments.
-
 | Setting | Example | Effect |
 | --- | --- | --- |
 | `BARCODE_DATA` | `"0123456789123"` | The value encoded into the barcode |
